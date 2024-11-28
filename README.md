@@ -21,8 +21,7 @@ A responsive and user-friendly shopping website built to showcase products and p
 
 ### Backend
 - Node.js
-- Express.js (optional)
-- MongoDB (or preferred database)
+- NXTWAVE API
 
 ### Additional Tools
 - Tailwind CSS/Bootstrap (optional)
