@@ -17,7 +17,7 @@ A responsive and user-friendly shopping website built to showcase products and p
 - HTML5
 - CSS3
 - JavaScript
-- React (optional)
+- React 
 
 ### Backend
 - Node.js
